@@ -1,0 +1,92 @@
+[
+    {
+        "Eng_word": "Earth",
+        "Fr_word": "terre",
+        "Indef_Article": "",
+        "Def_Article": "La"
+    },
+    {
+        "Eng_word": "A planet",
+        "Fr_word": "planète",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A country",
+        "Fr_word": "pays",
+        "Indef_Article": "Un",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A capital",
+        "Fr_word": "capitale",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A city",
+        "Fr_word": "ville",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A street",
+        "Fr_word": "rue",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A district",
+        "Fr_word": "arrondissement",
+        "Indef_Article": "Un",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "A road",
+        "Fr_word": "route",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Excuse me",
+        "Fr_word": "Excusez-moi",
+        "Indef_Article": "",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Always",
+        "Fr_word": "Toujours",
+        "Indef_Article": "",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Now",
+        "Fr_word": "Maintenant",
+        "Indef_Article": "",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Would like",
+        "Fr_word": "Voudrais",
+        "Indef_Article": "",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Little(quantity)",
+        "Fr_word": "peu",
+        "Indef_Article": "Un",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Wallet",
+        "Fr_word": "portefeuille",
+        "Indef_Article": "Un",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Goodbye",
+        "Fr_word": "Au revoir",
+        "Indef_Article": "",
+        "Def_Article": ""
+    }
+]
