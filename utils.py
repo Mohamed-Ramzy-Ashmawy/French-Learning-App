@@ -31,6 +31,5 @@ def show_vlist(vlist):
     for item in vlist:
         print(f"\nEnglish word: {item.Eng_word}\nFrench noun phrase: {item.ans}")
 
-def show_words():
-    
-    pass
+    print(f"\nThere are {len(vlist)} items..")
+

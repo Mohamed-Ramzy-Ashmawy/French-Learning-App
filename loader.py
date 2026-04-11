@@ -1,9 +1,9 @@
-import json
+from json import load
 from vocab import VocabularyItem
 
-
+# The file makes VocabularyItem objects from words.json
 with open("words.json") as f:
-    data = json.load(f)
+    data = load(f)
     
     vlist = []
 

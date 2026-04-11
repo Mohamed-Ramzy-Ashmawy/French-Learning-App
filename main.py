@@ -1,7 +1,7 @@
 import utils
 import loader
 
-vlist = loader.vlist
+vlist = loader.vlist #vlist is a list of objects based on the VocabularyItem class in vocab.py. Each object is a word, noun phrase, adverb, Interjection / Locution, etc...
 
 while True: 
     inp = input("\nWelcome to the French training app. What are you up to today?"
