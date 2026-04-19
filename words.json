@@ -88,5 +88,48 @@
         "Fr_word": "Au revoir",
         "Indef_Article": "",
         "Def_Article": ""
+    },
+    {
+        "Eng_word": "Monument",
+        "Fr_word": "monument",
+        "Indef_Article": "Un",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Luck",
+        "Fr_word": "chance",
+        "Indef_Article": "",
+        "Def_Article": "La"
+    },
+    {
+        "Eng_word": "The gifts",
+        "Fr_word": "cadeaux",
+        "Indef_Article": "",
+        "Def_Article": "Les"
+    },
+    {
+        "Eng_word": "Milk",
+        "Fr_word": "lait",
+        "Indef_Article": "",
+        "Def_Article": "Le"
+    },
+    {
+        "Eng_word": "Card",
+        "Fr_word": "carte",
+        "Indef_Article": "Une",
+        "Def_Article": ""
+    },
+    {
+        "Eng_word": "Vegetables",
+        "Fr_word": "légume",
+        "Indef_Article": "",
+        "Def_Article": "Les"
+    },
+    {
+        "Eng_word": "The cream",
+        "Fr_word": "crème",
+        "Indef_Article": "",
+        "Def_Article": "La"
     }
+
 ]

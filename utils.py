@@ -18,14 +18,14 @@ def take_test(inp, vlist):
             w = choice(vlist)
         
         words_used.append(w)
-        user_ans = input(f"{w.Eng_word}: ")
+        user_ans = input(f"{w.Eng_word}: ").strip()
 
         if user_ans != w.ans:
             print(f"WRONG! It's {w.ans}")
         else:
             print("YOU'RE GODDAMN RIGHT!")
         
-        inp = input("What's next?(n/q): ")
+        inp = input("What's next?(n/q): ").strip()
 
 def show_vlist(vlist):
     for item in vlist:

@@ -5,7 +5,7 @@ vlist = loader.vlist #vlist is a list of objects based on the VocabularyItem cla
 
 while True: 
     inp = input("\nWelcome to the French training app. What are you up to today?"
-    "(n = take test | s = show words | q = quit): ")
+    "(n = take test | s = show words | q = quit): ").strip().lower()
 
     if inp == "n":
         utils.take_test(inp, vlist)
