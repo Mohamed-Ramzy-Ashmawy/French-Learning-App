@@ -18,7 +18,7 @@ def take_test(inp, vlist):
             w = choice(vlist)
         
         words_used.append(w)
-        user_ans = input(f"{w.Eng_word}: ").strip()
+        user_ans = input(f"{w.Eng_word}: ").strip().capitalize()
 
         if user_ans != w.ans:
             print(f"WRONG! It's {w.ans}")
