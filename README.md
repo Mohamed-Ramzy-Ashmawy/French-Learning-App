@@ -11,4 +11,5 @@ An app that quizes user on noun phrases [the combination of an article (e.g. la,
 
 ### Prerequisites
 * Python 3.10+ (Tested on Linux Mint)
-* No external libraries required (uses standard `json` and `random` modules).
+* Uses standard `json` and `random` modules
+* Uses the third party library `questionary`
